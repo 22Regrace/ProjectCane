@@ -1,0 +1,155 @@
+﻿  Bullet.cpp
+  Command.cpp
+  EndGame.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.h(11,32): warning C4091: 'extern ': ignored on left of 'StartStateObserver' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\InGame.h(18,33): warning C4091: 'extern ': ignored on left of 'InGameStateObserver' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\EndGame.h(11,30): warning C4091: 'extern ': ignored on left of 'EndStateObserver' when no variable is declared
+  (compiling source file 'EndGame.cpp')
+  
+  Enemy.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'Enemy.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'Enemy.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'Enemy.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(32,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(96,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(96,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(115,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(177,77): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.cpp(177,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameState.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\InGame.h(18,33): warning C4091: 'extern ': ignored on left of 'InGameStateObserver' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\EndGame.h(11,30): warning C4091: 'extern ': ignored on left of 'EndStateObserver' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.h(11,32): warning C4091: 'extern ': ignored on left of 'StartStateObserver' when no variable is declared
+  (compiling source file 'GameState.cpp')
+  
+  InGame.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.h(11,32): warning C4091: 'extern ': ignored on left of 'StartStateObserver' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\EndGame.h(11,30): warning C4091: 'extern ': ignored on left of 'EndStateObserver' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\InGame.h(18,33): warning C4091: 'extern ': ignored on left of 'InGameStateObserver' when no variable is declared
+  (compiling source file 'InGame.cpp')
+  
+  Observer.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.h(11,32): warning C4091: 'extern ': ignored on left of 'StartStateObserver' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\InGame.h(18,33): warning C4091: 'extern ': ignored on left of 'InGameStateObserver' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\EndGame.h(11,30): warning C4091: 'extern ': ignored on left of 'EndStateObserver' when no variable is declared
+  (compiling source file 'Observer.cpp')
+  
+  Player.cpp
+  StartGame.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\InGame.h(18,33): warning C4091: 'extern ': ignored on left of 'InGameStateObserver' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\EndGame.h(11,30): warning C4091: 'extern ': ignored on left of 'EndStateObserver' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.h(11,32): warning C4091: 'extern ': ignored on left of 'StartStateObserver' when no variable is declared
+  (compiling source file 'StartGame.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\StartGame.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UI.cpp
+  Waves.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(21,19): warning C4091: 'extern ': ignored on left of 'Enemy' when no variable is declared
+  (compiling source file 'Waves.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(22,24): warning C4091: 'extern ': ignored on left of 'BasicEnemy' when no variable is declared
+  (compiling source file 'Waves.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Enemy.h(23,23): warning C4091: 'extern ': ignored on left of 'FastEnemy' when no variable is declared
+  (compiling source file 'Waves.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Waves.cpp(17,6): warning C4101: 'enemyTypeGenerator': unreferenced local variable
+  main.cpp
+D:\Tech\users\rgrace\Visual Studio\Cane\GameState.h(7,19): warning C4091: 'extern ': ignored on left of 'State' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+D:\Tech\users\rgrace\Visual Studio\Cane\Game.h(12,28): warning C4091: 'extern ': ignored on left of 'StartGameState' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  Generating code
+  239 of 721 functions (33.1%) were compiled, the rest were copied from previous compilation.
+    46 functions were new in current compilation
+    67 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Cane.vcxproj -> D:\Tech\users\rgrace\Visual Studio\Cane\x64\Release\Cane.exe
